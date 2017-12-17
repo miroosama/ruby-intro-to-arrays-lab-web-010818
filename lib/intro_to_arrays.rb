@@ -9,3 +9,6 @@ end
 def first_element(arr)
   arr.first
 end
+
+def third_element(arr)
+  arr[2]
